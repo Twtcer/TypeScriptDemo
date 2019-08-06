@@ -1,0 +1,33 @@
+{
+  "name": "tsdemo",
+  "version": "1.0.0",
+  "description": "ts learn demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maidouofgithub/TypeScriptDemo.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "landwind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maidouofgithub/TypeScriptDemo/issues"
+  },
+  "homepage": "https://github.com/maidouofgithub/TypeScriptDemo#readme",
+  "dependencies": {
+    "@types/react": "^16.8.24",
+    "@types/react-dom": "^16.8.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.5.3"
+  }
+}
